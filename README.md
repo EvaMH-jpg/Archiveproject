@@ -1,13 +1,10 @@
 # IMD/CODING/ARCHIVE PROJECT
 
-
-
-https://www.notion.so/IMD-CODING-ARCHIVE-PROJECT-d2baf584a1db41ddb372796ba53c9e06
-
-
 ## **Declaration of human rights**
 
 ## HOW TO ARCHIVE CHILDREN'S RIGHTS FOR AND IN AN ALWAYS CHANGING GLOBAL WORLD?
+
+### We have to take into consideration that the idea of children's rights only comes from the 19th and 20th century. this idea is somewhat 100 years old. before that children were treated as young adolescent. so how can we as a society make sure that these children will keep their rights and that these rights remain in an ever changing global world? how can we make sure that children all around the world have access to the idea of their rights and that they will be treated in a fair way? And how can we make sure that education will be accessible throughout the future ?
 
 First starting point: 
 
@@ -19,37 +16,25 @@ The declaration of childrens rights - poster
 
 ![IMD%20CODING%20ARCHIVE%20PROJECT/58.jpeg](IMD%20CODING%20ARCHIVE%20PROJECT/58.jpeg)
 
-### We have to take into consideration that the idea of childrens rights only comes from the 19th and 20th century. this idea is somewhat 100 years old. before that children were treated as young adolescent. so how can we as a society make sure that these children will keep their rights and that these rights remain in an everchanging global wolrd? how can we make sure that children all around the world have access to the idea of their rights and that they will be treated in a fair way? And how can we make sure that education will be accessible throughout the future ?
+DECLARATION OF HUMAN RIGHTS 
+
+# Molo Songololo 1st Magazine: ARTIFACT
+
+![IMD%20CODING%20ARCHIVE%20PROJECT/1-1.jpg](IMD%20CODING%20ARCHIVE%20PROJECT/1-1.jpg)
+
+### 
 
 How i found the artifact? 
 
-I was researching into the archive within the section of human rights when I came across these two posters regarding childrens rights from South africa. 
+I was researching into the archive within the section of human rights when I came across these two posters regarding childrens rights from South africa. Then I came across the Organization Molo Songololo and then I found the Magazine. 
 
-Tell us **ABOUT** this artefact: what current information is encoded in the IISG Archive, how, what formats?
+[ARCHIVE/DOCUMENTS ON CHILDREN'S RIGHTS: (primary source)](https://www.notion.so/ARCHIVE-DOCUMENTS-ON-CHILDREN-S-RIGHTS-primary-source-d0f684baa8b342a481a089bdd9ddff70)
 
-[Untitled](IMD%20CODING%20ARCHIVE%20PROJECT/Untitled%20Database.csv)
+[ARCHIVE/MOLO SONGOLOLO: (primary source)](https://www.notion.so/ARCHIVE-MOLO-SONGOLOLO-primary-source-55de41dcbd0e4965904861e20eaf42d1)
 
-Tell us something about the social history or context of the artefact. Something that isn’t contained in the current IISG Record. How did you collect & store this research? Link; Download; In a Google Doc?
+[MOLO SONGOLOLO (secondary source) ](https://www.notion.so/MOLO-SONGOLOLO-secondary-source-1a4035ec1ec74fc8a1ac1e3c23ad5780)
 
-Molo songololo magazine, offset litho poster
-
-[ARCHIVE/DOCUMENTS ON CHILDREN'S RIGHTS: (primary source)](IMD%20CODING%20ARCHIVE%20PROJECT/ARCHIVE%20DOCUMENTS%20ON%20CHILDREN%20S%20RIGHTS%20primary%20sou.md)
-
-[ARCHIVE/MOLO SONGOLOLO: (primary source)](IMD%20CODING%20ARCHIVE%20PROJECT/ARCHIVE%20MOLO%20SONGOLOLO%20primary%20source.md)
-
-[MOLO SONGOLOLO (secondary source) ](IMD%20CODING%20ARCHIVE%20PROJECT/MOLO%20SONGOLOLO%20secondary%20source.md)
-
-[CHILDREN'S RIGHTS/DECLARATION OF HUMAN RIGHTS/HISTORY (secondary source)](IMD%20CODING%20ARCHIVE%20PROJECT/CHILDREN%20S%20RIGHTS%20DECLARATION%20OF%20HUMAN%20RIGHTS%20HIST.md)
-
-How would you preserve a cultural artefact, if the IISG could no longer exist? Think about:
-
-→ **MEDIA** (Material) Stone; Paper; Hard-drive; Network; etc
-
-→ **FORMAT** (Encoding) Original (physical;) Facsimile (Photo; Print-out; JPG; MP3; MOV; etc) Interpretative or Representative?
-
-→ **METHODOLOGY** (Transcoding) What tools are required for transcoding the information? What tools are needed for reading the information? Language? Symbology?
-
-→ **PRESERVATION** (Lifespan) What is the shelf-life of this transcoded media?
+[CHILDREN'S RIGHTS/DECLARATION OF HUMAN RIGHTS/HISTORY (secondary source)](https://www.notion.so/CHILDREN-S-RIGHTS-DECLARATION-OF-HUMAN-RIGHTS-HISTORY-secondary-source-685ec1dddc494bf5992ea09ea84b0b99)
 
 20.02.2020
 
@@ -68,6 +53,16 @@ on how they communicated within these times since it was just after apartheid
 how much it was based in south africa of the magazine and how free they were?
 
 research more into 80/90 (to what degree is the idea of the childrens rights coming from locals and black children and how much is from outside and the western perspective on this?)
+
+How would you preserve a cultural artefact, if the IISG could no longer exist? Think about:
+
+→ **MEDIA** (Material) Stone; Paper; Hard-drive; Network; etc
+
+→ **FORMAT** (Encoding) Original (physical;) Facsimile (Photo; Print-out; JPG; MP3; MOV; etc) Interpretative or Representative?
+
+→ **METHODOLOGY** (Transcoding) What tools are required for transcoding the information? What tools are needed for reading the information? Language? Symbology?
+
+→ **PRESERVATION** (Lifespan) What is the shelf-life of this transcoded media?
 
 ## Ideas and ways of how to transcode for my research question: "How to archive human rights/childrens rights in an always changing globalized world?
 
@@ -133,16 +128,11 @@ The map provides a fine depiction of the World. California is shown as an island
 
     ### 2 MAIN FACTORS FOR STARTING POINTS OF TRANSCODING:
 
-    ### MOLO SONOGLOLO MAGAZINE AS MATERIAL
+    ### -MOLO SONOGLOLO MAGAZINE AS MATERIAL
 
-    ### TEXT/LANGUAGE AS MATERIAL
-
-    ### 
+    ### -TEXT/LANGUAGE AS MATERIAL ?
 
     ### from these two materials I have to find a way to start with ideas of how to transcode it in new and other media :
 
-    ### 
-
-    ### printed matter
-
-    ### interactive mapping / 3d
+    - printed matter
+    - interactive mapping / 3d
